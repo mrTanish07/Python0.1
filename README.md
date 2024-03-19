@@ -40,3 +40,19 @@ d) explain basics of computer networks.
 
 e) use Database concepts, SQL along with connectivity between Python and SQL.
 </details>
+<details>
+  <summary>Python Operators</summary>
+   In Python programming, Operators in general are used to perform operations on values and variables. These are standard symbols used for the purpose of logical and arithmetic operations. In this article, we will look into different types of Python operators. 
+
+OPERATORS: These are the special symbols. Eg- + , * , /, etc.
+OPERAND: It is the value on which the operator is applied. <br> <br>
+Types of Operators in Python :-
+<ul>
+<li>Arithmetic Operators </li>
+<li>Comparison Operators </li>
+<li>Logical Operators </li>
+<li>Bitwise Operators </li>
+<li>Assignment Operators </li>
+<li>Identity Operators and Membership Operators </li>
+</ul>
+  </details>
